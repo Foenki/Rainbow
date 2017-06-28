@@ -1,0 +1,8 @@
+#coloredSquare
+{
+	height: 300px;
+	width: 300px;
+	background-color: black;
+	display: inline-block;
+	float: right;
+}
